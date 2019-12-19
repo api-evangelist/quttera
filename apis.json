@@ -1,0 +1,65 @@
+{
+    "name": "Quttera",
+    "description": "Free online heuristic URL scanning and malware detection. Scan websites for malware, exploits and other infections with quttera detection engine to check if the site is safe to browse. Check website for malicious pages and online threats. Monitor websi...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1783-quttera.jpg",
+    "tags": [
+        "have api",
+        "malware",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/quttera\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Quttera",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1783-quttera.jpg",
+            "humanURL": "http:\/\/quttera.com\/quttera-web-malware-scanner-api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/quttera-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/quttera.com\/quttera-web-malware-scanner-api"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.quttera.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/quttera"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/quttera"
+        },
+        {
+            "type": "Email",
+            "url": "sales@quttera.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@quttera.com"
+        },
+        {
+            "type": "Email",
+            "url": "contactus@quttera.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/quttera"
+        }
+    ]
+}
